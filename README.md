@@ -1,5 +1,5 @@
 # Boids
-An implementation of Craig Reynold's Boids in Java
+An implementation of [Craig Reynold's Boids](https://en.wikipedia.org/wiki/Boids) in Java
 
 ![](https://user-images.githubusercontent.com/30124354/156945410-e791eca7-fc3d-402b-951b-81af9bd0b78d.gif)
 
